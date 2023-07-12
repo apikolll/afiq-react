@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1 style={{ fontSize: "10vw", color: "pink", textAlign: "center" }}>
-        Hewo cutipie
+        Hewo cutiepie
       </h1>
     </>
   );
