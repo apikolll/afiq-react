@@ -3,10 +3,21 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1 style={{ fontSize: "10vw", color: "pink", textAlign: "center" }}>
-        Hewo cutiepie
-      </h1>
-      <p style={{ fontSize: "5vw", color: "pink", textAlign: "center" }}>i mish you :(</p>
+      <div className="navbar">
+        <h3>Athirah</h3>
+        <div className="content">
+          <ul>
+            <li>Photos</li>
+          </ul>
+        </div>
+      </div>
+      <div className="section">
+        <h2>Hey Peeps !</h2>
+        <p>
+          aowjdnawidjnawiduansmidawnmdlawudjnmsoidjaowidjawo;dijanwdajmsidujamwidujasoidjaowidjawdawdasdjomaiwdawjdosidjaowidjawodijaosd
+        </p>
+      </div>
+      <div className="line"></div>
     </>
   );
 }
