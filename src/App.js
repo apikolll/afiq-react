@@ -14,7 +14,7 @@ function App() {
       <div className="section">
         <h2>Hey Peeps !</h2>
         <p>
-          aowjdnawidjnawiduansmidawnmdlawudjnmsoidjaowidjawo;dijanwdajmsidujamwidujasoidjaowidjawdawdasdjomaiwdawjdosidjaowidjawodijaosd
+          Hey ! my name is Athirah and I'm 23 years old. Interesting thing about me is that I'm cute :P
         </p>
       </div>
       <div className="line"></div>
